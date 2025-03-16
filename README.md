@@ -1,6 +1,6 @@
 # __Credit Card Routing System__
 
-This is the main notebook of the project and is divided by 2 files (this and app.py). This file is subdivided by:
+This project is divided by 2 files (main.ipynb and app.py). The main.ipynb file is subdivided by:
 - Main Imports: import all the libraries needed for the project
 - Read Data: read the data from the excel sheet dataset
 - Exploratory Data Analysis: explore the data for consequent analysis and development of the model
@@ -8,6 +8,8 @@ This is the main notebook of the project and is divided by 2 files (this and app
 - Modeling
 - Evaluation
 - End-user GUI
+
+Use the app.py to run the project by executing the command: ```>> python -m streamlit run app.py```
 
 Below some screenshot results of the project:
 
