@@ -11,7 +11,7 @@ This is the main notebook of the project and is divided by 2 files (this and app
 
 Below some screenshot results of the project:
 
-- <div>
+<div>
 
 <table border="1" class="dataframe">
   <thead>
